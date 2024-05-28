@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(216, 166, 101);
+    margin: auto;
+}
+body {
+    width: 80%;
+    border: black;
+    border-style: dashed;
+    background-color: antiquewhite;
+    margin: auto;
+}
+h1 {
+    border: black;
+    border-style: dashed;
+    font-style: italic;
+    text-transform: uppercase;
+    background-color: antiquewhite;
+    text-align: center;
+}
+li {
+    list-style-type: none;
+    font-style: italic;
+    text-align:center;
+    background-color: antiquewhite;
+}
+span {
+    font-size: 1.5em;
+    background-color: antiquewhite;
+}
+ul, div, p, a {
+    background-color: antiquewhite;
+}
