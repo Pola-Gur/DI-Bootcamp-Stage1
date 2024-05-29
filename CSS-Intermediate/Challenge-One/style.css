@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(27, 27, 63);
+}
+#wrap {
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 900px;
+}
+#nav {
+    min-width: 200px;
+    background-color: rgb(142, 199, 240);
+    margin-left: 20px;
+    text-align: center;
+}
+#content {
+    background-color: rgb(74, 92, 164);
+    padding: 0 20px 5px 20px;
+}
+li {
+    list-style-type: none;
+}
+.copyright {
+    text-align: center;
+    padding-left: 150px;
+}
