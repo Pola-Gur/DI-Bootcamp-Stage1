@@ -1,0 +1,38 @@
+p, .frame {
+    width: 90%;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 300px;
+    max-width: 800px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+#up {
+    background-color: rgb(161, 103, 215);
+    border: 1px solid black;
+    min-height: 100px;
+    text-align: center;
+    margin: 10px;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#first, #second, #third {
+    border: 1px solid black;
+    flex: 1;
+    min-height: 250px;
+    margin: 10px;
+}
+#first {
+    background-color: rgb(203, 86, 86);
+}
+#second {
+    background-color: rgb(154, 205, 159);
+}
+#third {
+    background-color: rgb(253, 178, 50);
+}

@@ -1,0 +1,33 @@
+p, .frame {
+    width: 90%;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 200px;
+    max-width: 1000px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 0.7em;
+}
+.row1, .row2, .row3 {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.red, .blue, footer {
+    border: 1px soplid black;
+    min-height: 70px;
+}
+.red {
+    width: 30%;
+    background-color: rgb(218, 87, 87);
+}
+.blue {
+    width: 69%;
+    background-color: rgb(157, 157, 221);
+}
+footer {
+    background-color: rgb(250, 218, 106);
+}
