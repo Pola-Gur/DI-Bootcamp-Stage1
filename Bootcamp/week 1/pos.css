@@ -1,0 +1,25 @@
+.parent {
+    background-color: #af47ff;
+    padding: 30px;
+    width: 300px;
+    position: relative;
+    height: 120vh;
+}
+
+.child {
+    background-color: #8d1657;
+    padding: 30px;
+}
+.box {
+    background-color: aqua;
+    padding: 30px;
+    border: 2px solid #333;
+    /* position: relative;
+    top: -60px;
+    left: 180px; */
+    position: fixed;
+    /* fixed держит на странице */
+    top: 50px;
+    left: 0;
+    /* поубирай и возвращай позицию тут */
+}
