@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 .bckimg {
-  background-image: url("/media/sky2.jpg");
+  background-image: url("media/sky2.jpg");
   content: '';
   display: block;
   position: absolute;
@@ -16,7 +16,7 @@
   opacity: 0.7;
 }
 #isr {
-  background-image: url("/media/sunrise.jpg");
+  background-image: url("media/sunrise.jpg");
   content: '';
   display: block;
   position: absolute;
@@ -29,7 +29,7 @@
   background-position: center;
 }
 #eur {
-  background-image: url("/media/europa.jpg");
+  background-image: url("media/europa.jpg");
   content: '';
   display: block;
   position: absolute;
@@ -42,7 +42,7 @@
   background-position: center;
 }
 #usa {
-  background-image: url("/media/ny.jpg");
+  background-image: url("media/ny.jpg");
   content: '';
   display: block;
   position: absolute;
@@ -55,7 +55,7 @@
   background-position: center;
 }
 #rus {
-  background-image: url("/media/Rus/rus2.jpg");
+  background-image: url("media/Rus/rus2.jpg");
   content: '';
   display: block;
   position: absolute;
@@ -68,7 +68,7 @@
   background-position: center;
 }
 #cont {
-  background-image: url("/media/cotor.jpg");
+  background-image: url("media/cotor.jpg");
   content: '';
   display: block;
   position: absolute;
