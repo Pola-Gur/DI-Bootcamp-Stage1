@@ -111,14 +111,6 @@
     flex-wrap: wrap;
     justify-content: center;
 }
-h1 {
-    font-family: fantasy;
-    font-size: 3em;
-    border-bottom: 2px solid lavender;
-    margin: auto;
-    width: 400px;
-    text-align: center;
-}
 img {
     width: 350px;
     height: auto;
@@ -128,19 +120,19 @@ img {
 img:hover {
     transform: scale(1.1);
 }
-  a:link {
+a:link {
     color: rgb(6, 12, 42);
     font-size: 19px;
-  }
-  a:visited {
+}
+a:visited {
     color: rgb(15, 8, 64);
     font-size: 19px;
-  }
-  a:hover {
+}
+a:hover {
     color: rgb(39, 165, 211);
     font-size: 21px;
-  }
- .row {
+}
+.row {
   margin-top: 12em;
   background-color: rgb(205, 219, 238);
  }
@@ -176,4 +168,10 @@ img:hover {
   margin-left: auto;
   margin-right: auto;
   padding: 40px;
+}
+.card .card-image img {
+margin-left: 0;
+padding-left: 0;
+
+
 }
